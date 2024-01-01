@@ -1,0 +1,5 @@
+Order: order list heading (order id, transection id, time, date, name, price) 
+Order confirmation
+Keep Last 5 digit of transection ID(at admin dashboard order section)
+Report generate: total sell, total product.(from admin side)
+Delivery/ table reservation
